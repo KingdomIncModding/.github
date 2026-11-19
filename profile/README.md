@@ -6,9 +6,9 @@
 
 Home to **Foundation**, the shared modding framework for **Kingdom Inc**, and the mods, tools, and experiments built around it.
 
-[All Projects](https://github.com/orgs/KingdomIncModding/repositories) · [Foundation](https://github.com/KingdomIncModding/Foundation) · [Wiki](https://github.com/KingdomIncModding/Wiki) · [Support on Ko-fi](https://ko-fi.com/S6V62AX30M)
+[All Projects](https://github.com/orgs/KingdomIncModding/repositories) · [Foundation](https://github.com/KingdomIncModding/Foundation) · [Wiki](https://github.com/KingdomIncModding/Wiki) · [Support on Ko-fi](https://ko-fi.com/urakkaamyx/tip)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
 
 </div>
 
@@ -118,7 +118,7 @@ For bug reports and suggestions, use the relevant project's Issues tab. Include 
 
 Every mod, tool, and framework update in KingdomIncModding is built and maintained independently. If these projects make your kingdom run smoother, consider buying a coffee on Ko-fi!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
 
 ---
 
