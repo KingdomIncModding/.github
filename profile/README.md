@@ -6,7 +6,9 @@
 
 Home to **Foundation**, the shared modding framework for **Kingdom Inc**, and the mods, tools, and experiments built around it.
 
-[All Projects](https://github.com/orgs/KingdomIncModding/repositories) · [Foundation](https://github.com/KingdomIncModding/Foundation) · [Wiki](https://github.com/KingdomIncModding/Wiki)
+[All Projects](https://github.com/orgs/KingdomIncModding/repositories) · [Foundation](https://github.com/KingdomIncModding/Foundation) · [Wiki](https://github.com/KingdomIncModding/Wiki) · [Support on Ko-fi](https://ko-fi.com/S6V62AX30M)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
 
 </div>
 
@@ -111,6 +113,12 @@ Each project's README covers its own compatibility and removal guidance, includi
 Explore **[Foundation's documentation and SDK](https://github.com/KingdomIncModding/Foundation#readme)** for shared game integrations and reusable mod interfaces.
 
 For bug reports and suggestions, use the relevant project's Issues tab. Include your game and mod versions, steps to reproduce the problem, and useful logs or screenshots. Check the project's license and contribution guidance before submitting code.
+
+## ☕ Support the Project
+
+Every mod, tool, and framework update in KingdomIncModding is built and maintained independently. If these projects make your kingdom run smoother, consider buying a coffee on Ko-fi!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
 
 ---
 
